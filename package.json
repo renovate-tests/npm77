@@ -12,6 +12,6 @@
   "dependencies": {
     "chalk": "4.0.0",
     "left-pad": "1.0.0",
-    "pretty-format": "26.6.2"
+    "pretty-format": "27.4.2"
   }
 }
